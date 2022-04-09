@@ -40,7 +40,6 @@
     animation-fill-mode: forwards;
     animation-duration: 2s;
     animation-delay: 4s;
-    z-index: 2;
 }
   
 @keyframes whole-page {
